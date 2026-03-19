@@ -70,3 +70,43 @@ Asimismo, se identifican diferencias estructurales en ingresos y condiciones lab
 
 ## 📁 Estructura del repositorio
 
+## 📁 Datos
+La base de datos utilizada no se incluye en este repositorio debido a su tamaño.
+
+Para ejecutar el proyecto, es necesario contar con el archivo:
+`Base_TDG.csv`
+
+y ubicarlo en la ruta correspondiente dentro del entorno local.
+
+---
+
+## ▶️ Cómo ejecutar el proyecto
+
+1. Clonar el repositorio:
+
+https://github.com/gvillazon12/analisis-empleo-colombia.git
+
+3. Abrir el archivo `analisis_empleo.R` en RStudio  
+
+4. Ajustar la ruta del archivo de datos  
+
+5. Ejecutar el script completo  
+
+---
+
+## 👤 Sobre mí
+Soy estadístico con enfoque en análisis de datos, modelado estadístico y visualización de información.
+
+Este proyecto refleja habilidades en:
+- Limpieza y transformación de datos  
+- Análisis exploratorio  
+- Modelos econométricos  
+- Interpretación de resultados  
+
+---
+
+## 📬 Contacto
+📧 villazonmoti@gmail.com  
+🔗 LinkedIn: linkedin.com/in/GvillazonDatos  
+
+---
