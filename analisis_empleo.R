@@ -1,3 +1,7 @@
+# Proyecto: Análisis de empleo formal e informal en Colombia
+# Autor: Gustavo Villazon
+# Descripción: Análisis estadístico con modelos econométricos y visualización de datos
+
 #Librerias 
 library(dplyr)
 library(readr)
