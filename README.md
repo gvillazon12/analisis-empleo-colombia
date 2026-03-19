@@ -68,6 +68,19 @@ Asimismo, se identifican diferencias estructurales en ingresos y condiciones lab
 
 ---
 
+## 📊 Visualizaciones
+
+### Tipo de empleo
+![Tipo de empleo](tipo_empleo.png)
+
+### Análisis multivariado (MCA)
+![MCA](mca_variables.png)
+
+### Modelo de supervivencia
+![Kaplan-Meier](kapla.png)
+
+---
+
 ## 📁 Estructura del repositorio
 
 ## 📁 Datos
@@ -103,6 +116,7 @@ Este proyecto refleja habilidades en:
 - Modelos econométricos  
 - Interpretación de resultados  
 
+Este proyecto fue desarrollado como parte de mi formación en estadística y análisis de datos, aplicando técnicas utilizadas en contextos reales del mercado laboral.
 ---
 
 ## 📬 Contacto
